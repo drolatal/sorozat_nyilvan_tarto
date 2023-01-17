@@ -1,0 +1,40 @@
+{
+    "userid0": {
+        "id": "userid0",
+        "username": "admin",
+        "email": "adminemail@admin.com",
+        "password": "$2y$10$oFbB0D6vh7pY1Xb3dpnEwehGa45jtO48Tn15JM5eZ2jwBgekmxrJS",
+        "watched": {
+            "series3": 0
+        }
+    },
+    "userid1": {
+        "id": "userid1",
+        "username": "user1",
+        "email": "email1",
+        "password": "$2y$10$J7\/icWCIEUaIK3GtQEtJ0eibThR9ly9NdzlzHayvZYpOTWEJLGpKK",
+        "watched": {
+            "series1": 2,
+            "series2": 1
+        }
+    },
+    "userid2": {
+        "id": "userid2",
+        "username": "user2",
+        "email": "email1",
+        "password": "$2y$10$pEyGZA.4W8A5ECEYD1bMnuwmuq0EZSxbSf5Zf0nI8sHDXwTe4opiW",
+        "watched": {
+            "series1": 1,
+            "series4": 6
+        }
+    },
+    "userid3": {
+        "id": "userid3",
+        "username": "a",
+        "email": "a@b.cc",
+        "password": "$2y$10$\/1hsK1dlAjd0tjumsgIXx.ZXY5Qo.iL62oFhvw6teks4d90XnKQ\/e",
+        "watched": {
+            "series1": 1
+        }
+    }
+}
